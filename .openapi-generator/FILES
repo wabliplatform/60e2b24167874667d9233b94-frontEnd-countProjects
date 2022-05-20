@@ -1,6 +1,5 @@
 .babelrc
 .gitignore
-.openapi-generator-ignore
 .travis.yml
 README.md
 config.js
@@ -18,7 +17,4 @@ src/api/ProductApi.js
 src/index.js
 src/model/Product.js
 src/model/ProductPImage.js
-test/api/ProductApi.spec.js
-test/model/Product.spec.js
-test/model/ProductPImage.spec.js
 webpack.config.js
